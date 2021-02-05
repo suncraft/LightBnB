@@ -11,7 +11,7 @@ VALUES
 (1, 'EssQueEll Corner', 'description', 'someThumbURL3.com', 'someCoverPhotoURL3.com', 250, 3, 2, 4, 'Canada', '001 Across Road', 'Montreal', 'Quebec', '555555', true);
 
 
---used example:
+--used example for reservations
 INSERT INTO reservations (guest_id, property_id, start_date, end_date) 
 VALUES 
 (1, 1, '2018-09-11', '2018-09-26'),
